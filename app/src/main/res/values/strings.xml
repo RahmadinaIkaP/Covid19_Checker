@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">expert</string>
+    <string name="question1">Apakah anda mengalami demam hingga 38 derajat celcius?</string>
+    <string name="question2">Apakah anda mengalami batuk kering?</string>
+    <string name="question3">Apakah anda mengalami sesak nafas?</string>
+    <string name="question4">Apakah anda mudah lelah?</string>
+    <string name="question5">Apakah anda kehilangan indra perasa dan/atau penciuman?</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signuphere"><u>Click me to sign up!</u></string>
+    <string name="signup">REGISTRASI</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="noTelp">Nomor Telepon</string>
+    <string name="age">Usia</string>
+    <string name="loginhere"><u>Click me to login!</u></string>
+    <string name="konfirmpass">Konfirmasi Password</string>
+    <string name="Covid_19">COVID-19 Checker</string>
+</resources>

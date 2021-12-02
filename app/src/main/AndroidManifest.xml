@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="id.ac.umn.expert">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_app"
+        android:label="@string/Covid_19"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:theme="@style/Theme.Expert"
+        tools:targetApi="m">
+        <activity
+            android:name=".SignUp"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
+            android:name=".Result"
+            android:exported="true" />
+        <activity
+            android:name=".Pertanyaan5"
+            android:exported="true" />
+        <activity
+            android:name=".Pertanyaan4"
+            android:exported="true" />
+        <activity
+            android:name=".Pertanyaan3"
+            android:exported="true" />
+        <activity
+            android:name=".Pertanyaan2"
+            android:exported="true" />
+        <activity
+            android:name=".Pertanyaan1"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
